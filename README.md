@@ -11,12 +11,12 @@ Daily case numbers, death numbers can be learned. I code the project in Java lan
 ## Which API are you using ? 🤔
 
 I'm using this API in Android Application : https://corona.lmao.ninja<br><br>
-This Api is perfect. Build anything from console widgets to mobile applications with our free and easy to use API.<br>
+This Api is perfect. Build anything from console widgets to mobile applications with our free and easy-to-use API.<br>
 
 
 ## Android Application Screens 📱
 
-When the application is opened, a screen listing all countries is shown. This screen shows how many people have died in total in the all countries so far. By swiping up and down on the main page, you can find out the number of people who died from corona virus in all countries.
+When the application is opened, a screen listing all countries is shown. This screen shows how many people have died in total in all countries so far. By swiping up and down on the main page, you can find out the number of people who died from corona virus in all countries.
 
 
 <img src="https://github.com/halilozel1903/Covid19Stats/blob/master/screenshots/homeScreen.jpeg" width="300" /> <img src="https://github.com/halilozel1903/Covid19Stats/blob/master/screenshots/homeScreenPage.jpeg" width="300" />
